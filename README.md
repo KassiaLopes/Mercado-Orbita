@@ -30,9 +30,9 @@ Propor recomendações para atingir as metas da empresa.
 - Python (ETL e EDA)
   
 ## :paperclip: Documentação Completa
-:point_right: A documentação completa, contendo detalhes do **planejamento, execução e apresentação final** está disponível no Notion:
+A documentação completa, contendo detalhes do **planejamento, execução e apresentação final** está disponível no Notion:
 
-[Acessar a documentação completa](https://www.notion.so/Documenta-o-Geral-Projeto-Mercado-rbita-233a8e9002238073ad2eed3878215ca6?source=copy_link)
+:point_right: [Acessar a documentação completa](https://www.notion.so/Documenta-o-Geral-Projeto-Mercado-rbita-233a8e9002238073ad2eed3878215ca6?source=copy_link)
 
 ## :pushpin: Membros da Equipe
 - Camila Neri
