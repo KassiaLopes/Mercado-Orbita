@@ -8,6 +8,7 @@ Identificar os fatores que impactam os seguinte indicadores:
 - Atraso médio da entrega
 - Média de avaliação
 - Taxa de clientes recorrentes
+
 Propor recomendações para atingir as metas da empresa.
 
 ## :file_folder: Estrutura do Projeto
